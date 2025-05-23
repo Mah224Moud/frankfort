@@ -1,263 +1,264 @@
 City,State,Zip,Latitude,Longitude,URL,Temps,Vendeur,Fonction
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60,V_Angers_1,Accessoires gaming
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60,V_Angers_2,Consultants IT
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60,V_Angers_3,Solutions de stockage
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60,V_Angers_4,Équipements serveurs
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60,V_Angers_5,Équipements télécom
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60,V_Angers_6,Équipements serveurs
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60,V_Angers_7,Accessoires gaming
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60,V_Angers_1,Licences logiciels
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60,V_Angers_2,Matériel informatique
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60,V_Angers_3,Licences logiciels
 Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_5400.geojson,90,V_Angers_1,"Périphériques (claviers, souris, écrans)"
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_5400.geojson,90,V_Angers_2,Équipements télécom
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_5400.geojson,90,V_Angers_3,"Périphériques (claviers, souris, écrans)"
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_1,Accessoires gaming
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_2,"Périphériques (claviers, souris, écrans)"
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_3,Logiciels
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_4,Équipements télécom
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_5,Équipements serveurs
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_6,Solutions réseau
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_7,Licences logiciels
-Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_8,Consultants IT
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_3600.geojson,60,V_Balma_1,Smartphones et tablettes
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_3600.geojson,60,V_Balma_2,Licences logiciels
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_3600.geojson,60,V_Balma_3,Solutions de stockage
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_3600.geojson,60,V_Balma_4,Équipements serveurs
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_5400.geojson,90,V_Balma_1,Solutions SaaS
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_5400.geojson,90,V_Balma_2,Équipements serveurs
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_5400.geojson,90,V_Balma_3,Cybersécurité
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_5400.geojson,90,V_Balma_4,Solutions de stockage
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_5400.geojson,90,V_Balma_5,Consultants IT
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_1,Services cloud
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_2,Solutions de stockage
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_3,Accessoires gaming
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_4,Consultants IT
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_5,Cybersécurité
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_6,Services de maintenance IT
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_7,Solutions de stockage
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_8,Consultants IT
-Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_9,Licences logiciels
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60,V_Brest_1,Équipements télécom
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60,V_Brest_2,"Périphériques (claviers, souris, écrans)"
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_5400.geojson,90,V_Angers_2,"Périphériques (claviers, souris, écrans)"
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_5400.geojson,90,V_Angers_3,Licences logiciels
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_5400.geojson,90,V_Angers_4,Logiciels
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_1,Services de maintenance IT
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_2,Smartphones et tablettes
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_3,Équipements télécom
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_4,Consultants IT
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_5,Solutions réseau
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_6,Solutions de stockage
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_7,Logiciels
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_8,"Périphériques (claviers, souris, écrans)"
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120,V_Angers_9,Équipements télécom
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_3600.geojson,60,V_Balma_1,Cybersécurité
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_3600.geojson,60,V_Balma_2,Solutions de stockage
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_3600.geojson,60,V_Balma_3,Solutions réseau
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_3600.geojson,60,V_Balma_4,"Périphériques (claviers, souris, écrans)"
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_3600.geojson,60,V_Balma_5,Services cloud
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_5400.geojson,90,V_Balma_1,Équipements télécom
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_5400.geojson,90,V_Balma_2,Licences logiciels
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_5400.geojson,90,V_Balma_3,Équipements télécom
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_1,Solutions de stockage
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_2,"Périphériques (claviers, souris, écrans)"
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_3,Équipements serveurs
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_4,Solutions SaaS
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120,V_Balma_5,Accessoires gaming
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60,V_Brest_1,Accessoires gaming
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60,V_Brest_2,Consultants IT
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60,V_Brest_3,Accessoires gaming
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60,V_Brest_4,Équipements serveurs
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60,V_Brest_5,Solutions SaaS
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60,V_Brest_6,Services de maintenance IT
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60,V_Brest_7,Solutions de stockage
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60,V_Brest_8,"Périphériques (claviers, souris, écrans)"
 Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_5400.geojson,90,V_Brest_1,Solutions réseau
 Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_5400.geojson,90,V_Brest_2,Accessoires gaming
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_5400.geojson,90,V_Brest_3,Services cloud
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_1,Consultants IT
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_2,Services cloud
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_3,Consultants IT
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_4,Équipements serveurs
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_5,"Périphériques (claviers, souris, écrans)"
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_6,Accessoires gaming
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_7,Solutions SaaS
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_8,Solutions de stockage
-Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_9,Consultants IT
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_1,Cybersécurité
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_2,Services cloud
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_3,Accessoires gaming
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_4,Consultants IT
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_5,Solutions SaaS
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_6,Équipements télécom
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90,V_Caen_1,Accessoires gaming
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90,V_Caen_2,"Périphériques (claviers, souris, écrans)"
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_1,"Périphériques (claviers, souris, écrans)"
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_2,Équipements télécom
-Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_3,Équipements télécom
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_1,Smartphones et tablettes
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_2,Logiciels
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_3,Équipements télécom
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_4,Logiciels
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_5,Services cloud
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_6,Services cloud
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_7,Consultants IT
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_8,Consultants IT
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_9,"Périphériques (claviers, souris, écrans)"
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90,V_Chanteau_1,Équipements serveurs
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90,V_Chanteau_2,Licences logiciels
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90,V_Chanteau_3,Équipements télécom
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90,V_Chanteau_4,Cybersécurité
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90,V_Chanteau_5,Équipements télécom
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90,V_Chanteau_6,Solutions réseau
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90,V_Chanteau_7,Licences logiciels
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90,V_Chanteau_8,Équipements serveurs
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_7200.geojson,120,V_Chanteau_1,Logiciels
-Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_7200.geojson,120,V_Chanteau_2,Logiciels
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_3600.geojson,60,V_Chartres_1,Équipements télécom
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_3600.geojson,60,V_Chartres_2,Licences logiciels
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_1,Accessoires gaming
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_2,"Périphériques (claviers, souris, écrans)"
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_3,Matériel informatique
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_4,Licences logiciels
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_5,Accessoires gaming
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_6,Services de maintenance IT
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_7,Solutions SaaS
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_8,Équipements télécom
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_1,"Périphériques (claviers, souris, écrans)"
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_2,Solutions de stockage
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_3,Solutions réseau
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_4,Matériel informatique
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_5,Consultants IT
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_6,Cybersécurité
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_7,Matériel informatique
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_5400.geojson,90,V_Brest_3,Équipements serveurs
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_5400.geojson,90,V_Brest_4,Équipements serveurs
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_5400.geojson,90,V_Brest_5,Smartphones et tablettes
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_5400.geojson,90,V_Brest_6,Équipements télécom
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_5400.geojson,90,V_Brest_7,Licences logiciels
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_5400.geojson,90,V_Brest_8,Logiciels
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_1,Équipements serveurs
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_2,"Périphériques (claviers, souris, écrans)"
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120,V_Brest_3,"Périphériques (claviers, souris, écrans)"
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_1,Matériel informatique
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_2,Solutions de stockage
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_3,Cybersécurité
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_4,Logiciels
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60,V_Caen_5,Solutions de stockage
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90,V_Caen_1,"Périphériques (claviers, souris, écrans)"
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90,V_Caen_2,Logiciels
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90,V_Caen_3,Solutions SaaS
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90,V_Caen_4,Équipements télécom
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90,V_Caen_5,Logiciels
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90,V_Caen_6,Équipements télécom
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90,V_Caen_7,Accessoires gaming
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90,V_Caen_8,Licences logiciels
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_1,Solutions réseau
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_2,Matériel informatique
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_3,Licences logiciels
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_4,Licences logiciels
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_5,Équipements télécom
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_6,Licences logiciels
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_7,Équipements télécom
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_8,Consultants IT
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120,V_Caen_9,Matériel informatique
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_1,Logiciels
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60,V_Chanteau_2,Smartphones et tablettes
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90,V_Chanteau_1,Cybersécurité
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90,V_Chanteau_2,Équipements serveurs
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_7200.geojson,120,V_Chanteau_1,Matériel informatique
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_7200.geojson,120,V_Chanteau_2,Équipements télécom
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_7200.geojson,120,V_Chanteau_3,Licences logiciels
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_7200.geojson,120,V_Chanteau_4,Services de maintenance IT
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_7200.geojson,120,V_Chanteau_5,Cybersécurité
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_7200.geojson,120,V_Chanteau_6,"Périphériques (claviers, souris, écrans)"
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_3600.geojson,60,V_Chartres_1,Licences logiciels
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_3600.geojson,60,V_Chartres_2,Solutions SaaS
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_3600.geojson,60,V_Chartres_3,Logiciels
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_3600.geojson,60,V_Chartres_4,Smartphones et tablettes
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_3600.geojson,60,V_Chartres_5,Solutions réseau
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_3600.geojson,60,V_Chartres_6,Équipements serveurs
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_1,Cybersécurité
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_2,Équipements serveurs
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_3,Solutions SaaS
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_4,Consultants IT
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_5,Services de maintenance IT
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_6,Solutions de stockage
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_7,Solutions réseau
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_8,Services de maintenance IT
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90,V_Chartres_9,Consultants IT
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_1,Solutions de stockage
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_2,Équipements serveurs
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_3,Équipements serveurs
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_4,Solutions réseau
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_5,Équipements serveurs
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_6,Consultants IT
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_7,Solutions SaaS
 Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_8,"Périphériques (claviers, souris, écrans)"
-Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120,V_Chartres_9,Matériel informatique
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_1,Licences logiciels
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_2,Solutions SaaS
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_3,Solutions SaaS
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_4,Accessoires gaming
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_1,Solutions de stockage
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_2,Matériel informatique
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_3,"Périphériques (claviers, souris, écrans)"
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_4,Cybersécurité
 Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_5,Smartphones et tablettes
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_6,Solutions de stockage
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_7,"Périphériques (claviers, souris, écrans)"
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_6,Consultants IT
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_7,Solutions SaaS
 Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_8,Cybersécurité
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60,V_Lanester_9,Services de maintenance IT
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_1,Accessoires gaming
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_2,Logiciels
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_3,Cybersécurité
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_4,Équipements télécom
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_5,"Périphériques (claviers, souris, écrans)"
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_6,Équipements serveurs
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_7,Équipements serveurs
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120,V_Lanester_1,Matériel informatique
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120,V_Lanester_2,Smartphones et tablettes
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120,V_Lanester_3,Équipements serveurs
-Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120,V_Lanester_4,Smartphones et tablettes
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_1,"Périphériques (claviers, souris, écrans)"
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_2,Équipements serveurs
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_3,Solutions de stockage
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_4,Équipements serveurs
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90,V_Lanester_5,Équipements serveurs
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120,V_Lanester_1,Consultants IT
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120,V_Lanester_2,Cybersécurité
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120,V_Lanester_3,Services cloud
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120,V_Lanester_4,Matériel informatique
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120,V_Lanester_5,Solutions de stockage
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120,V_Lanester_6,Matériel informatique
 Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_1,Solutions de stockage
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_2,Équipements serveurs
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_3,Logiciels
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_1,Smartphones et tablettes
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_2,Solutions de stockage
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_3,Smartphones et tablettes
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_4,Smartphones et tablettes
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_5,Licences logiciels
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_6,Équipements serveurs
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_7,Matériel informatique
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_7200.geojson,120,V_Nantes_1,Solutions réseau
-Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_7200.geojson,120,V_Nantes_2,Services de maintenance IT
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_1,Solutions réseau
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_2,Services de maintenance IT
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_3,Smartphones et tablettes
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_4,Matériel informatique
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_5,Équipements télécom
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_6,Solutions réseau
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90,V_Orleans_1,Solutions SaaS
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90,V_Orleans_2,Matériel informatique
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90,V_Orleans_3,Accessoires gaming
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_1,Cybersécurité
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_2,Services de maintenance IT
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_3,Équipements télécom
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_4,Logiciels
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_5,Consultants IT
-Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_6,Consultants IT
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_3600.geojson,60,V_France_1,Solutions de stockage
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_3600.geojson,60,V_France_2,Matériel informatique
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_3600.geojson,60,V_France_3,Solutions de stockage
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_1,Solutions de stockage
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_2,Solutions SaaS
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_3,Consultants IT
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_4,Cybersécurité
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_5,Solutions SaaS
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_6,Consultants IT
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_7,Logiciels
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_8,Solutions de stockage
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_1,Logiciels
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_2,Matériel informatique
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_3,Solutions de stockage
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_4,Services de maintenance IT
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_5,Smartphones et tablettes
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_6,Équipements serveurs
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_7,Solutions SaaS
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_8,Consultants IT
-France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_9,Logiciels
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_1,Consultants IT
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_2,Solutions réseau
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_3,Équipements serveurs
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_4,Licences logiciels
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_5,Équipements télécom
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_6,Solutions SaaS
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_7,Solutions réseau
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_1,Services cloud
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_2,Licences logiciels
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_3,Équipements télécom
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_4,"Périphériques (claviers, souris, écrans)"
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_5,Cybersécurité
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_6,Consultants IT
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_2,Solutions réseau
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_3,Licences logiciels
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_4,Services cloud
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_5,Consultants IT
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_6,Licences logiciels
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_7,Services cloud
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_8,Solutions SaaS
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60,V_Nantes_9,Services de maintenance IT
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_1,Services de maintenance IT
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_2,Solutions réseau
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_3,Solutions SaaS
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90,V_Nantes_4,Accessoires gaming
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_7200.geojson,120,V_Nantes_1,Consultants IT
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_7200.geojson,120,V_Nantes_2,Consultants IT
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_1,Cybersécurité
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_2,Accessoires gaming
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_3,Solutions réseau
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_4,Services cloud
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_5,Cybersécurité
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_6,Licences logiciels
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_7,Logiciels
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_8,Logiciels
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60,V_Orleans_9,Accessoires gaming
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90,V_Orleans_1,Accessoires gaming
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90,V_Orleans_2,Services de maintenance IT
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90,V_Orleans_3,Services cloud
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90,V_Orleans_4,Solutions SaaS
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90,V_Orleans_5,"Périphériques (claviers, souris, écrans)"
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90,V_Orleans_6,"Périphériques (claviers, souris, écrans)"
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90,V_Orleans_7,Matériel informatique
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_1,Solutions réseau
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_2,Matériel informatique
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_3,Smartphones et tablettes
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_4,Consultants IT
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_5,Solutions SaaS
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120,V_Orleans_6,Services de maintenance IT
+France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_3600.geojson,60,V_France_1,Matériel informatique
+France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_3600.geojson,60,V_France_2,Services de maintenance IT
+France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_1,"Périphériques (claviers, souris, écrans)"
+France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_2,Équipements télécom
+France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90,V_France_3,Smartphones et tablettes
+France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_1,Cybersécurité
+France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_2,Cybersécurité
+France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_3,Matériel informatique
+France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_4,Solutions SaaS
+France,France,0,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120,V_France_5,Cybersécurité
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_1,Solutions de stockage
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_2,Services de maintenance IT
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_3,Cybersécurité
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_4,Équipements télécom
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_5,Solutions SaaS
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_6,Matériel informatique
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_7,Cybersécurité
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_8,Équipements télécom
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60,V_Quimper_9,Matériel informatique
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_1,Équipements serveurs
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_2,Solutions réseau
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_3,"Périphériques (claviers, souris, écrans)"
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_4,Consultants IT
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_5,Matériel informatique
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_6,Solutions de stockage
 Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_7,Matériel informatique
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_1,Accessoires gaming
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_2,Licences logiciels
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_3,Solutions réseau
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_4,Smartphones et tablettes
-Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_5,Services cloud
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_1,Équipements télécom
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_2,Cybersécurité
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_3,Smartphones et tablettes
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_4,Matériel informatique
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_5400.geojson,90,V_Rennes_1,Services de maintenance IT
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_5400.geojson,90,V_Rennes_2,Consultants IT
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_1,Solutions de stockage
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_2,Solutions SaaS
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_3,Smartphones et tablettes
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_4,Cybersécurité
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_5,Services de maintenance IT
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_6,Équipements serveurs
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_7,Consultants IT
-Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_8,Services de maintenance IT
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_1,Équipements serveurs
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_2,Licences logiciels
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_3,Licences logiciels
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_4,Solutions de stockage
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_5,Licences logiciels
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_6,Solutions SaaS
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_7,Accessoires gaming
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_8,Équipements serveurs
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_9,Solutions réseau
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_1,Logiciels
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_2,Équipements serveurs
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_3,Services de maintenance IT
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_4,Équipements serveurs
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_5,Équipements télécom
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_6,Services cloud
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_7,Équipements serveurs
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_8,"Périphériques (claviers, souris, écrans)"
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_1,Matériel informatique
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_2,Solutions de stockage
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_3,Services de maintenance IT
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_4,Licences logiciels
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_5,Licences logiciels
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_6,Services de maintenance IT
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_7,Solutions réseau
-Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_8,Services de maintenance IT
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_1,Solutions réseau
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_2,Consultants IT
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_3,Matériel informatique
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_4,"Périphériques (claviers, souris, écrans)"
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_5,Solutions SaaS
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_6,Consultants IT
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_7,Équipements serveurs
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_8,Licences logiciels
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_9,Équipements serveurs
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90,V_Tours_1,Smartphones et tablettes
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90,V_Tours_2,Matériel informatique
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90,V_Tours_3,Matériel informatique
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90,V_Tours_4,Solutions réseau
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_1,Services cloud
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_2,Équipements serveurs
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_3,"Périphériques (claviers, souris, écrans)"
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_4,Matériel informatique
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_5,Licences logiciels
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_6,Services cloud
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_7,Solutions de stockage
-Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_8,Smartphones et tablettes
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_1,Équipements serveurs
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_2,Consultants IT
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90,V_Quimper_8,Équipements serveurs
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_1,Matériel informatique
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_2,Solutions SaaS
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_3,Solutions de stockage
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_4,Services cloud
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_5,Matériel informatique
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120,V_Quimper_6,Accessoires gaming
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_1,Consultants IT
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_2,Accessoires gaming
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_3,Services de maintenance IT
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_4,"Périphériques (claviers, souris, écrans)"
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_5,Services cloud
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_6,Solutions réseau
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60,V_Rennes_7,Smartphones et tablettes
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_5400.geojson,90,V_Rennes_1,Matériel informatique
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_5400.geojson,90,V_Rennes_2,Solutions réseau
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_1,Équipements télécom
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_2,Matériel informatique
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_3,Consultants IT
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_4,Logiciels
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_5,Solutions réseau
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_6,Licences logiciels
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_7,Cybersécurité
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_8,Solutions SaaS
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120,V_Rennes_9,Solutions SaaS
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_1,Solutions réseau
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_2,Solutions SaaS
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_3,Cybersécurité
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_4,Consultants IT
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_5,Équipements télécom
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_6,Accessoires gaming
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_7,Solutions SaaS
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60,V_Rouen_8,Smartphones et tablettes
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_1,Équipements télécom
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_2,Licences logiciels
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_3,Logiciels
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_4,Solutions de stockage
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_5,Matériel informatique
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_6,Accessoires gaming
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90,V_Rouen_7,Services cloud
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_1,Services cloud
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_2,Smartphones et tablettes
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_3,Licences logiciels
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_4,Smartphones et tablettes
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_5,Accessoires gaming
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_6,Logiciels
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120,V_Rouen_7,Solutions SaaS
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_1,Consultants IT
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_2,Solutions de stockage
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60,V_Tours_3,Équipements serveurs
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90,V_Tours_1,Équipements télécom
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90,V_Tours_2,Logiciels
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90,V_Tours_3,Équipements serveurs
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90,V_Tours_4,Logiciels
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90,V_Tours_5,Logiciels
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90,V_Tours_6,Matériel informatique
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_1,Solutions SaaS
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_2,Solutions SaaS
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_3,Licences logiciels
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_4,Solutions de stockage
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_5,Logiciels
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_6,Solutions SaaS
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_7,"Périphériques (claviers, souris, écrans)"
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120,V_Tours_8,Services cloud
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_1,Services de maintenance IT
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_2,Smartphones et tablettes
 Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_3,Solutions réseau
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_4,Logiciels
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_5,Logiciels
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_6,Équipements télécom
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_7,Services de maintenance IT
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_8,Accessoires gaming
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_1,Services cloud
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_2,Matériel informatique
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_3,Cybersécurité
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_4,Cybersécurité
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_5,Cybersécurité
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_6,Services cloud
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_7,Solutions de stockage
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_8,Matériel informatique
-Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_9,Consultants IT
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_4,"Périphériques (claviers, souris, écrans)"
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_5,Services cloud
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_6,Services de maintenance IT
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_7,Matériel informatique
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60,V_Vannes_8,Équipements serveurs
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_1,Services de maintenance IT
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_2,Services cloud
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_3,Services de maintenance IT
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_4,Accessoires gaming
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_5,Équipements télécom
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90,V_Vannes_6,"Périphériques (claviers, souris, écrans)"

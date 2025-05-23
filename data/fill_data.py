@@ -1,7 +1,7 @@
 import pandas as pd
 import random
 
-# Charger le CSV initial
+# Charger les données d’origine
 df = pd.read_csv("data_test_qlik.csv")
 
 fonctions_it = [
@@ -22,31 +22,43 @@ fonctions_it = [
     "Équipements serveurs"
 ]
 
-# Liste pour stocker toutes les nouvelles lignes
-nouveau_data = []
+# Générer les vendeurs
+vendeur_data = []
 
-# Parcours ligne par ligne
 for index, row in df.iterrows():
     ville = row["City"]
-    # Générer entre 2 et 9 vendeurs par ville
     nb_vendeurs = random.randint(2, 9)
     
     for i in range(1, nb_vendeurs + 1):
-        vendeur = f"V_{ville}_{i}"
+        vendeur_nom = f"V_{ville}_{i}"
         fonction = random.choice(fonctions_it)
-        
-        # On peut garder toutes les colonnes initiales + fonction et vendeur
-        nouvelle_ligne = row.to_dict()
-        nouvelle_ligne["Vendeur"] = vendeur
-        nouvelle_ligne["Fonction"] = fonction
-        
-        # Ajouter cette nouvelle ligne à la liste
-        nouveau_data.append(nouvelle_ligne)
+        new_row = row.to_dict()
+        new_row["Vendeur"] = vendeur_nom
+        new_row["Fonction"] = fonction
+        vendeur_data.append(new_row)
 
-# Créer un nouveau DataFrame à partir des lignes générées
-df_vendeurs = pd.DataFrame(nouveau_data)
-
-# Sauvegarder dans un nouveau CSV
+df_vendeurs = pd.DataFrame(vendeur_data)
 df_vendeurs.to_csv("data_test_qlik_avec_vendeurs.csv", index=False)
 
-print("Fichier CSV mis à jour avec les vendeurs et fonctions créés.")
+# Générer les clients
+clients_data = []
+
+vendeurs = df_vendeurs["Vendeur"].tolist()
+
+# Choisir un vendeur qui aura exactement 100 clients
+vendeur_avec_100 = random.choice(vendeurs)
+
+for vendeur in vendeurs:
+    nb_clients = 100 if vendeur == vendeur_avec_100 else random.randint(1, 50)
+    
+    for idx in range(1, nb_clients + 1):
+        client_id = f"C_{vendeur}_{idx}"
+        clients_data.append({
+            "idVendeur": vendeur,
+            "C_vendeur_idx": client_id
+        })
+
+df_clients = pd.DataFrame(clients_data)
+df_clients.to_csv("customers.csv", index=False)
+
+print("✅ Vendeurs et clients générés avec succès dans 'data_vendeurs.csv' et 'data_clients.csv'")
