@@ -1,0 +1,45 @@
+City,State,Zip,Latitude,Longitude,URL,Temps
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_3600.geojson,60
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_5400.geojson,90
+Angers,Pays de la Loire,49000,47.478419,-0.563166,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Angers_7200.geojson,120
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_3600.geojson,60
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_5400.geojson,90
+Balma,Occitanie,31130,43.598415,1.490208,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Balma_7200.geojson,120
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_3600.geojson,60
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_5400.geojson,90
+Brest,Bretagne,29200,48.390394,-4.486076,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Brest_7200.geojson,120
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_3600.geojson,60
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_5400.geojson,90
+Caen,Normandie,14000,49.414421,-0.713349,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Caen_7200.geojson,120
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_3600.geojson,60
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_5400.geojson,90
+Chanteau,Loiret,45110,47.908748,2.051091,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chanteau_7200.geojson,120
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_3600.geojson,60
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_5400.geojson,90
+Chartres,Centre-Val de Loire,28000,48.446248,1.489789,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Chartres_7200.geojson,120
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_3600.geojson,60
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_5400.geojson,90
+Lanester,Bretagne,56600,47.758594,-3.379309,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Lanester_7200.geojson,120
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_3600.geojson,60
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_5400.geojson,90
+Nantes,Pays de la Loire,44000,47.218371,-1.553621,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Nantes_7200.geojson,120
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_3600.geojson,60
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_5400.geojson,90
+Orleans,Centre-Val de Loire,45000,47.902964,1.909253,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Orleans_7200.geojson,120
+France,France,00000,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_3600.geojson,60
+France,France,00000,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_5400.geojson,90
+France,France,00000,46.603354,1.888334,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/France_7200.geojson,120
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_3600.geojson,60
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_5400.geojson,90
+Quimper,Bretagne,29000,47.996089,-4.102149,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Quimper_7200.geojson,120
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_3600.geojson,60
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_5400.geojson,90
+Rennes,Bretagne,35000,48.117266,-1.677793,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rennes_7200.geojson,120
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_3600.geojson,60
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_5400.geojson,90
+Rouen,Normandie,76000,49.443231,1.099971,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Rouen_7200.geojson,120
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_3600.geojson,60
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_5400.geojson,90
+Tours,Centre-Val de Loire,37000,47.394144,0.68484,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Tours_7200.geojson,120
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_3600.geojson,60
+Vannes,Bretagne,56000,47.658236,-2.760847,https://raw.githubusercontent.com/Mah224Moud/frankfort/refs/heads/main/qlik_/Vannes_5400.geojson,90
